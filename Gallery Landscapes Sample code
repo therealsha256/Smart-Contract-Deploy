@@ -1,0 +1,93 @@
+<!doctype html>
+ <title>Gallery Landscapes</title>
+<meta name="viewport" content="width=device-width">
+<link href="https://fonts.googleapis.com/css2?family=Raleway:wght@600&display=swap" rel="stylesheet">
+<style>
+
+img {
+height: 80px;
+border: 8px double lightgray;
+margin: 10px 10px 10px 10px;
+box-shadow: 0px 0px 0px 10px;
+}
+
+html {
+  font: 'Andale Mono', sans-serif;
+  width: 400px;
+  margin: 0 auto 0 auto;
+  background: lightblue url(/images/textures/light9a.png);
+}
+
+h1 {
+  font: 48px 'Andale Mono', sans-serif;
+  margin: 0px 0px 0px 0px;
+  text-shadow: 1px 1px 4px crimson;
+  color: chocolate;
+  text-shadow: -3px 0 red, 3px 0 cyan;
+}
+
+h3 {
+  font: 18px purple 'Comic Sans MS', cursive;
+   text-decoration: underline;
+  margin: 0px 0px 8px 0px;
+  }
+
+
+a {
+  color: red;
+  text-decoration: none;
+  }
+
+  a:visited {
+    color: lightCoral;
+    }
+
+  a:hover {
+  color: crimson;
+  text-decoration: underline;
+}
+
+h3:hover {
+  font: 20px;
+  }
+
+  p {
+    margin: 14px 0px 10px 0px;
+    }
+
+  ul {
+    list-style-type: square;
+    list-style-image: url(/images/silverStar.png);
+    }
+</style>
+
+<h1>Gallery Landscapes </h1>
+<br>
+
+<h3>Imagine Yourself Here</h3>
+
+
+<strong>Location: </strong> <a Href= "https://goo.gl/maps/R3KuF5wmo5tqxCCi7" target="_blank"> Las Colinas</a> <br>
+<strong>Email: </strong> TheLandscapes@gmail.com<br>
+<strong>Phone: </strong> 520-979-5339<br>
+<strong>Website: </strong> <a Href= "www.Gallerylandscapes.com" target="_blank"> www.TheGalleryLandscapes.com</a><br>
+<strong>Facebook: </strong> <a Href= "https://www.facebook.com/luis.f.leyva.9" target="_blank"> Las Colinas</a>
+<br><br>
+<p>Whether you are looking for a beautiful porch, or back-yard, a renovation, a tweak, or an overhaul. We do it all!
+<br><br>
+<img Alt="Landscape backyard" src="https://runtedrun.com/wp-content/uploads/2017/08/river-rock-landscaping-653x393.png" >
+<img src="https://runtedrun.com/wp-content/uploads/2016/12/rock-garden-designs-front-yard-using-flowers-653x393.jpg" alt="beautiful landscape front yard desert flowers" >
+<p>Create your home oasis, bring the desert to you, or enjoy a lucious green pasture to illumite your every day!
+<br><br>
+<img src="https://runtedrun.com/wp-content/uploads/2016/12/large-river-rocks.jpg" alt="Beautiful yard landscape with pond" >
+<img src="https://runtedrun.com/wp-content/uploads/2016/12/large-rocks-for-landscaping.jpg" alt="Beautiful yard landscape with pond" >
+<p>Gallery Landscapes has got you covered! give us a call today, and one of our experts will provide you with a free consultation with zero obligation. Our customers already love us, and we want you to love us too!
+
+<ul>
+<li>Complete Renovation
+<li>Irrigation Systems
+<li>Lawn Maintenance / Upkeep
+<li>Custom Stone / plant Design
+<li>Landscape Installation
+<li>Commercial & Residential
+</ul>
